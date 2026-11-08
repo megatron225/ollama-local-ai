@@ -29,3 +29,8 @@ This is an independent learning project and is not affiliated with Ollama.
 - Verified the Ollama service and local API.
 - Downloaded and tested two Qwen 2.5 model sizes.
 - Compared their answers to a cybersecurity question about the CIA triad.
+
+## Project Documentation
+
+- [Ollama recovery](docs/recovery.md)
+- [Qwen model comparison](docs/model-comparison.md)
