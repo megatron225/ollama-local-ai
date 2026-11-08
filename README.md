@@ -34,3 +34,4 @@ This is an independent learning project and is not affiliated with Ollama.
 
 - [Ollama recovery](docs/recovery.md)
 - [Qwen model comparison](docs/model-comparison.md)
+- [Ollama commands](docs/ollama-commands.md)
