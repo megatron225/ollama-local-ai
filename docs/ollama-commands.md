@@ -32,11 +32,6 @@ ollama ps
 ollama pull qwen2.5:3b
 ```
 
-## Run a model
-
-```bash
-ollama run qwen2.5:3b
-```
 
 ## Start Ollama
 
