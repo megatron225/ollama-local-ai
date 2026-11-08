@@ -31,5 +31,10 @@ This was one informal test, not a comprehensive benchmark. Different prompts or 
 ollama run qwen2.5:0.5b
 ollama run qwen2.5:3b
 ```
+## Model Download
+
+This screenshot shows the successful download of the Qwen 2.5 3B model.
+
+![Successful Qwen 2.5 3B model download](../qwen-3b-download.png)
 
 [Back to the project overview](../README.md)
